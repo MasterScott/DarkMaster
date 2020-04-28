@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Darkmaster
+Comment=Darkmaster 🕵️ Information Gathering Tool 🕵️
+Encoding=UTF-8
+Exec=sh -c "Darkmaster;${SHELL:-bash}"
+Icon=/usr/share/icons/Darkmaster.ico
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;01-04-network-scanners;02-vulnerability-analysis;
+X-Kali-Package=Darkmaster
+Name[C]=Darkmaster
+Name[en_IN]=Darkmaster
